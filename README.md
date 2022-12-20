@@ -1,7 +1,7 @@
 ## **HotelDB - Data and Applications**
 <br>
 
-### This is team project with each team containing 3 people - our team members have contributed equally in all the 4 phases(discussing sitting at one place and building it up.)
+### This is team project with each team containing 3 people
 
 <br>
 
