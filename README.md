@@ -1,7 +1,7 @@
 ## **HotelDB - Data and Applications**
 <br>
 
-### This is team project with each team containing 3 people
+### This is a team project with each team containing 3 people
 
 <br>
 
