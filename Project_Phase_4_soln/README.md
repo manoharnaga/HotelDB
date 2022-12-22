@@ -1,6 +1,4 @@
-## D&A  - Project Phase 4
-### TeamNO: **4**
-
+Project Phase 4
 
 ### **Compilation Format:**
 ```sh
